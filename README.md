@@ -1,6 +1,6 @@
-# Mwap
+# Mwaps
 
-Mwap is a (work in progress) map application, created as an alternative to Google Maps.
+Mwaps is a (work in progress) maps application, created as an alternative to Google Maps.
 
 ## Planned Features
 
