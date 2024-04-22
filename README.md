@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/dowonut/mwaps">
-    <img src="web/public/icon_1024.png" alt="Logo" width="1024" height="1024">
+    <img src="web/public/icon_1024.png" alt="Logo" width="128" height="128">
   </a>
 
   <h1 align="center">mwaps</h1>
