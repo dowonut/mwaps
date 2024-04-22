@@ -1,0 +1,7 @@
+.google-map {
+  height: 100vh;
+}
+
+.google-map .gm-style iframe + div {
+  border: none !important;
+}
